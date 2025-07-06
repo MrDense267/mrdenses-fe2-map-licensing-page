@@ -33,7 +33,7 @@
 
 | Map Name       | Difficulty  | Star Rating | Price | Status   | Purchase / Contact |
 |----------------|-------------|-------------|--------|----------|---------------------|
-| Bedrock Valley | Easy        | 1.7         | $5     | ❌ WIP | DM me on Discord    |
+| Bedrock Valley | Easy        | 1.7         | $5     | ❌ WIP | Coming Soon...    |
 
 ---
 
