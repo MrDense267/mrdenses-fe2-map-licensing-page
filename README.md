@@ -31,10 +31,9 @@
 
 ## 🧱 available maps
 
-| Map Name               | Difficulty      | Price  | Status      | Purchase / Contact       |
-|------------------------|-----------------|--------|-------------|--------------------------|
-| Generic Base (CLASSIC) | Easy (1.3)      | $5     | ✅ Ready    | DM me on Discord    		   |
-| Unhinged Toilet (V2)   | Crazy+ (6.2)    | $100   | ❌ WIP      | Coming Soon...           |
+| Map Name       | Difficulty  | Star Rating | Price | Status   | Purchase / Contact |
+|----------------|-------------|-------------|--------|----------|---------------------|
+| Bedrock Valley | Easy        | 1.7         | $5     | ❌ WIP | DM me on Discord    |
 
 ---
 
